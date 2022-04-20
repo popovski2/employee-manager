@@ -1,6 +1,6 @@
 # Employee Manager Backend application
 
-Spring Boot application using PostgreSQL database and Redis caching 
+Simple Spring Boot application using PostgreSQL database and Redis caching 
 
 ## Stack
 #### Backend: 
